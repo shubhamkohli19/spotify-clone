@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "node .\\src\\index.js"
   },
   "dependencies": {
     "@clerk/express": "^1.4.0",
